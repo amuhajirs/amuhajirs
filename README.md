@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [ahmad-muhajir.vercel.app](ahmad-muhajir.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ahmad-muhajir.vercel.app](https://ahmad-muhajir.vercel.app)
 
 - 📫 How to reach me **jeremyjeferson71@gmail.com**
 
