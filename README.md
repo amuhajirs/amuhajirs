@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://ahmad-muhajir.vercel.app](https://ahmad-muhajir.is-a.dev)
+- 👨‍💻 All of my projects are available at [https://ahmad-muhajir.is-a.dev](https://ahmad-muhajir.is-a.dev)
 
 - 📫 How to reach me **jeremyjeferson71@gmail.com**
 
