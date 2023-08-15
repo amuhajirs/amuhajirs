@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmad-muhajir.is-a.dev](https://ahmad-muhajir.is-a.dev)
 
-- 📫 How to reach me **jeremyjeferson71@gmail.com**
+- 📫 How to reach me **amuhajir.syamlan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
