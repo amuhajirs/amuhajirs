@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Muhajir Syamlan</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amuhajirs&label=Profile%20views&color=0e75b6&style=flat" alt="amuhajirs" /><img src="https://img.shields.io/github/followers/amuhajirs?label=Followers&style=social" alt="followers" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amuhajirs&label=Profile%20views&color=0e75b6&style=flat" alt="amuhajirs" /> <img src="https://img.shields.io/github/followers/amuhajirs label=Followers&style=social" alt="followers" /></a></p>
 
 - 🔭 I’m currently working as **Developer** on **62Teknologi**
 
