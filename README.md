@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Developer** on **62Teknologi**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **NuxtJS**
 
 - 👨‍💻 All of my projects are available at [https://ahmad-muhajir.is-a.dev](https://ahmad-muhajir.is-a.dev)
 
