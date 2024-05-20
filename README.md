@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amuhajirs&label=Profile%20views&color=0e75b6&style=flat" alt="amuhajirs" /> <img src="https://img.shields.io/github/followers/amuhajirs?label=Followers&style=social" alt="followers" /></a></p>
 
-- 🔭 I’m currently working as **Developer** on **62Teknologi**
+- 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **NuxtJS**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://ahmad-muhajir.is-a.dev](https://ahmad-muhajir.is-a.dev)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmad-muhajir-syamlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-muhajir-syamlan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amuhajirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amuhajirs" height="30" width="40" /></a>
 <a href="https://instagram.com/amuhajirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amuhajirs" height="30" width="40" /></a>
 </p>
 
